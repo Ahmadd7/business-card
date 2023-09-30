@@ -1,0 +1,27 @@
+.body {
+    margin : 20px;
+}
+    
+.avatar {
+    width: 140px;
+    height: 135px;
+    border: 2.5px ridge #fca311;
+    border-radius: 4px;
+}
+
+.card {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    display: flex;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 5px solid #fca311;
+    background: #14213d;
+    color: #f0efeb;
+    border-radius: 2px;
+}
+
+
